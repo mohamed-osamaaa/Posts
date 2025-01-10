@@ -4,7 +4,7 @@ https://github.com/user-attachments/assets/edb84d87-e5a3-4e6c-8175-a807e16a02eb
 
 
 
-```markdown
+
 # Posts
 
 A React + Vite project built with TypeScript for managing posts. This application demonstrates essential CRUD operations and API integration, making it perfect for learning modern web development.
